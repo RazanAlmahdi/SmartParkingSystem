@@ -16,6 +16,35 @@ and sensors to provide an intelligent parking solution with integrated fire dete
  - 1 Piezo
  - 1 LCD display screen
 
+ # The circuit (Virtual)
+
+ The virtual circuit has been designed on the [Tinkercad](https://www.tinkercad.com/dashboard) platform. You can access the circuit by clicking this [link](https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk). This is how the circuit looks and functions:
+ 
+ - Parking Slot Display:
+
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/slots.gif"/> 
+
+The circuit displays a welcome message to the user, followed by the number of available parking slots. 
+Once a parking slot is occupied or taken by a vehicle, the message on screen will change, displaying the new number of available slots.
+Likewise, if a car evacuates a parking spot, it will be declared free on the screen.
+
+- Fire/Gas Detection Display:
+
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/>
+
+The gas/smoke sensor is highly sensitive to gas, temperature and smoke. Thus, once an abnormal temperature or smoke is detected, the buzzer will go off.
+A warning message will be displayed on screen, directing the user to follow the emergency exits and provides the emergency contact number.
+
+ # The circuit (Physical)
+
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit1.png" width=500 />
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit2.png" width=500 />
+
+# Video Demo
+
+
+
+https://github.com/RazanAlmahdi/SmartParkingSystem/assets/94799877/bc637fe5-091f-41c5-a092-7bf9e7ad66f6
 
  # Code
 
@@ -192,7 +221,9 @@ void checkDistance() {
   delay(100);
 }
 ```
- # Instructions to Run
+
+
+# Instructions to Run
 
  To run this project, you can either implement it virtually on [Tinkercad](https://www.tinkercad.com/dashboard) following the instructions provided in the report, or implement it physically. 
  Clone this repository to your own Github via the following link:
@@ -200,36 +231,6 @@ void checkDistance() {
  ```
 git clone https://github.com/RazanAlmahdi/SmartParkingSystem.git
 ```
-
- # The circuit (Virtual)
-
- The virtual circuit has been designed on the [Tinkercad](https://www.tinkercad.com/dashboard) platform. You can access the circuit by clicking this [link](https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk). This is how the circuit looks and functions:
- 
- - Parking Slot Display:
-
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/slots.gif"/> 
-
-The circuit displays a welcome message to the user, followed by the number of available parking slots. 
-Once a parking slot is occupied or taken by a vehicle, the message on screen will change, displaying the new number of available slots.
-Likewise, if a car evacuates a parking spot, it will be declared free on the screen.
-
-- Fire/Gas Detection Display:
-
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/>
-
-The gas/smoke sensor is highly sensitive to gas, temperature and smoke. Thus, once an abnormal temperature or smoke is detected, the buzzer will go off.
-A warning message will be displayed on screen, directing the user to follow the emergency exits and provides the emergency contact number.
-
- # The circuit (Physical)
-
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit1.png" width=500 />
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit2.png" width=500 />
-
-# Video Demo
-
-
-
-https://github.com/RazanAlmahdi/SmartParkingSystem/assets/94799877/bc637fe5-091f-41c5-a092-7bf9e7ad66f6
 
 
  # Authors
