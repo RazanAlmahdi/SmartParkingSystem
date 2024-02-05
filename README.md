@@ -1,6 +1,6 @@
 # SmartParkingSystem
 
-# introduction 
+# Concept
  In recent years, the rapid growth of urbanization and the increasing number of
  vehicles on the road have led to a significant challenge in finding available parking
  spaces efficiently. Traditional parking systems often result in time-consuming and
@@ -12,9 +12,8 @@
  microcontrollers and sensors to provide an intelligent parking solution with integrated
  fire detection and prevention capabilities.
 
- # HARDWARE
-
- Hardware
+ # Hardware Components
+ 
  The hardware components used in this project are as follows:
  A. 1 breadboard
  B. 1smoke/gas sensor
@@ -24,12 +23,15 @@
  F. 1Piezo
  G. LCDdisplay scree
 
- # cODE
+ # Code
+```
 
+```
  # Tools used
 
- # the circuit (tikercad)
+ # The circuit (Virtual)
 
- # the circuit (real)
+<img src="https://github.com/RazanAlmahdi/SimplePortfolioWebsite/blob/main/interface.png"/> 
+ # the circuit (Physical)
 
- # authors
+ # Authors
