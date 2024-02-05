@@ -14,7 +14,7 @@ and sensors to provide an intelligent parking solution with integrated fire dete
  - 1 Push button
  - 1 potentiometer
  - 1 Piezo
- - LCD display screen
+ - 1 LCD display screen
 
 
  # Code
