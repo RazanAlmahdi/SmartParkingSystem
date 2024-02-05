@@ -36,6 +36,7 @@
 
  # The circuit (Physical)
 
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/>
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/>
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit1.png"/>
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit2.png"/>
+
  # Authors
