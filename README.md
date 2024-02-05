@@ -28,13 +28,7 @@ and sensors to provide an intelligent parking solution with integrated fire dete
 
  # The circuit (Virtual)
 
- The virtual circuit has been designed on the Tinkercad platform. The circuit is accessable via the followin link:
- 
- ```
-https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk
-```
-
- This is how the circuit looks and functions:
+ The virtual circuit has been designed on the Tinkercad platform. You can access the circuit by clicking this [link](https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk). This is how the circuit looks and functions:
  
  - Parking Slot Display:
 
@@ -48,7 +42,8 @@ Likewise, if a car evacuates a parking spot, it will be declared free on the scr
 
 <img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/>
 
-The gas/smoke sensor is highly sensitive to gas, temperature and smoke. Thus, once an abnormal temperature or smoke is detected, the buzzer will go off. A warning message will be displayed on screen, directing the user to follow the emergency exits and provides the emergency contact number.
+The gas/smoke sensor is highly sensitive to gas, temperature and smoke. Thus, once an abnormal temperature or smoke is detected, the buzzer will go off.
+A warning message will be displayed on screen, directing the user to follow the emergency exits and provides the emergency contact number.
 
  # The circuit (Physical)
 
@@ -61,4 +56,4 @@ The gas/smoke sensor is highly sensitive to gas, temperature and smoke. Thus, on
 - [Reem Alsharabi]
 - [Hanin Alzaher]
 - [Hajer Abbas]
-- 
+  
