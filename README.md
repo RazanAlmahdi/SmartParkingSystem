@@ -28,7 +28,13 @@ and sensors to provide an intelligent parking solution with integrated fire dete
 
  # The circuit (Virtual)
 
- The virtual circuit has been designed on the Tinkercad platform. This is how it looks and functions:
+ The virtual circuit has been designed on the Tinkercad platform. The circuit is accessable via the followin link:
+ 
+ ```
+https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk
+```
+
+ This is how the circuit looks and functions:
  
  - Parking Slot Display:
 
