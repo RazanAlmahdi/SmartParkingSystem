@@ -194,7 +194,7 @@ void checkDistance() {
 ```
  # Instructions to Run
 
- To run this project, you can either implement it virtually on [Tinkercad](https://www.tinkercad.com/dashboard) following the instructions provided in the report, or implment it physically. 
+ To run this project, you can either implement it virtually on [Tinkercad](https://www.tinkercad.com/dashboard) following the instructions provided in the report, or implement it physically. 
  Clone this repository to your own Github via the following link:
 
  ```
@@ -224,6 +224,10 @@ A warning message will be displayed on screen, directing the user to follow the 
 
 <img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit1.png" width=500 />
 <img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/circuit2.png" width=500 />
+
+# Video Demo
+
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/project_demo.mp4" />
 
  # Authors
 
