@@ -19,6 +19,9 @@ and sensors to provide an intelligent parking solution with integrated fire dete
  
 
  # Code
+
+ Run this code on your Tinkercad or Arduino Uno IDE:
+ 
 ```
 #include <LiquidCrystal.h>
 
