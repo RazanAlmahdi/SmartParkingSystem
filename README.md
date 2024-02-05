@@ -16,11 +16,10 @@ and sensors to provide an intelligent parking solution with integrated fire dete
  - 1 Piezo
  - LCD display screen
 
- 
 
  # Code
 
- Run this code on your Tinkercad or Arduino Uno IDE:
+ Run this code on your [Tinkercad](https://www.tinkercad.com/dashboard) or Arduino Uno IDE:
  
 ```
 #include <LiquidCrystal.h>
@@ -195,11 +194,15 @@ void checkDistance() {
 ```
  # Instructions to Run
 
- To try this project, you can use t
+ To run this project, you can either implement it virtually on [Tinkercad](https://www.tinkercad.com/dashboard) following the instructions provided in the report, or implment it physically. 
+ Clone this repository to your own Github via the following link:
+
+ ```
+```
 
  # The circuit (Virtual)
 
- The virtual circuit has been designed on the Tinkercad platform. You can access the circuit by clicking this [link](https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk). This is how the circuit looks and functions:
+ The virtual circuit has been designed on the [Tinkercad](https://www.tinkercad.com/dashboard) platform. You can access the circuit by clicking this [link](https://www.tinkercad.com/things/7MbkoZQzdFj-copy-of-fire-alarm-system/editel?sharecode=U9SMsw9DVs3LnSUWjfOCbx47AsV4eT5csBgSj7ngpNk). This is how the circuit looks and functions:
  
  - Parking Slot Display:
 
@@ -223,7 +226,7 @@ A warning message will be displayed on screen, directing the user to follow the 
 
  # Authors
 
-- [Razan Almahdi]
+- [Razan Almahdi](https://github.com/RazanAlmahdi)
 - [Reem Alsharabi]
 - [Hanin Alzaher]
 - [Hajer Abbas]
