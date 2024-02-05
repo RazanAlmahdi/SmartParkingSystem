@@ -227,7 +227,10 @@ A warning message will be displayed on screen, directing the user to follow the 
 
 # Video Demo
 
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/project_demo.mp4" />
+
+
+https://github.com/RazanAlmahdi/SmartParkingSystem/assets/94799877/bc637fe5-091f-41c5-a092-7bf9e7ad66f6
+
 
  # Authors
 
