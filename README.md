@@ -238,5 +238,5 @@ git clone https://github.com/RazanAlmahdi/SmartParkingSystem.git
 - [Razan Almahdi](https://github.com/RazanAlmahdi)
 - [Reem Alsharabi](https://github.com/ReemAlsharabi)
 - [Hanin Alzaher](https://github.com/hanin-az)
-- [Hajer Abbas]
+- [Hajer Abbas](https://github.com/HajerAbbas)
   
