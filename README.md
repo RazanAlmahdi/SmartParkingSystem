@@ -198,6 +198,7 @@ void checkDistance() {
  Clone this repository to your own Github via the following link:
 
  ```
+git clone https://github.com/RazanAlmahdi/SmartParkingSystem.git
 ```
 
  # The circuit (Virtual)
@@ -227,7 +228,7 @@ A warning message will be displayed on screen, directing the user to follow the 
  # Authors
 
 - [Razan Almahdi](https://github.com/RazanAlmahdi)
-- [Reem Alsharabi]
-- [Hanin Alzaher]
+- [Reem Alsharabi](https://github.com/ReemAlsharabi)
+- [Hanin Alzaher](https://github.com/hanin-az)
 - [Hajer Abbas]
   
