@@ -32,7 +32,8 @@
  # The circuit (Virtual)
 
 <img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/slots.gif"/> 
-<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/> 
- # the circuit (Physical)
+<img src="https://github.com/RazanAlmahdi/SmartParkingSystem/blob/main/fire.gif"/>
+
+ # The circuit (Physical)
 
  # Authors
